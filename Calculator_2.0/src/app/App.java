@@ -9,7 +9,7 @@ public class App {
         //Clears the terminal so that everything that pops up on start disappears
         //ASCII escape code I found with a quick google
 
-        System.out.println("Welocome to the calculator!");
+        System.out.println("Welcome to the calculator!");
 
         Scanner input = new Scanner(System.in);
 
