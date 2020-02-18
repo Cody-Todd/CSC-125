@@ -13,13 +13,13 @@ public class App {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Please input your first integer");
+        System.out.println("Please input your first integer:");
         int number1 = input.nextInt();
 
-        System.out.println("Please input your second integer");
+        System.out.println("Please input your second integer:");
         int number2 = input.nextInt();
 
-        System.out.println("Please make a selection");
+        System.out.println("Please make a selection:");
         System.out.println("For addition input 1");
         System.out.println("For subtraction input 2");
         System.out.println("For multiplication input 3");
